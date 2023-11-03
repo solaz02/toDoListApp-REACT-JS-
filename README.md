@@ -1,2 +1,2 @@
 # toDoListApp-REACT-JS-
-# A to do list App using REACT JavaScript
+# Learning and implementing basic react js
